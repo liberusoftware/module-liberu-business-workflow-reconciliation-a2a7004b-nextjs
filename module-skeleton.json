@@ -1,0 +1,15 @@
+{
+  "repository": "module-liberu-business-workflow-reconciliation-a2a7004b-nextjs",
+  "capabilityKey": "liberusoftware/liberu-business-workflow-reconciliation",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-liberu-business-workflow-reconciliation-a2a7004b-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/automation/nextjs/liberu-business-workflow-reconciliation.md",
+  "presentationPlan": "projects/automation/nextjs/liberu-business-workflow-reconciliation.md",
+  "identityReviewRequired": true,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "automation"
+  ]
+}
